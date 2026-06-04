@@ -1,0 +1,10 @@
+node_modules
+.node20/
+.cache/
+*.log
+*.zip
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+bot.log
+bot.err
